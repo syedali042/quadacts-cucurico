@@ -45,7 +45,7 @@ body{
 }
 
 .first-background{
-    background-image:    url('assets/img/first-bg.png');
+    background-image:    url('../img/first-bg.png');
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-blend-mode: overlay;

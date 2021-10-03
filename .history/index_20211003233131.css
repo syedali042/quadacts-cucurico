@@ -6,7 +6,6 @@ body{
     padding-top:20px;
     padding-bottom:20px;
 }
-
 .width-30px{
     width: 30px;
 }
@@ -30,9 +29,6 @@ body{
 .menu-container{
     width: 70%;
 }
-.menu{
-    margin-top:10px;
-}
 .menu ul{
     display: flex;
     align-items: center;
@@ -45,7 +41,7 @@ body{
 }
 
 .first-background{
-    background-image:    url('assets/img/first-bg.png');
+    background-image:    url('first-bg.png');
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-blend-mode: overlay;

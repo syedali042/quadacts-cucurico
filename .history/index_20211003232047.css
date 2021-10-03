@@ -3,13 +3,8 @@ body{
 }
 .header{
     background: #fff;
-    padding-top:20px;
-    padding-bottom:20px;
 }
 
-.width-30px{
-    width: 30px;
-}
 .header-container{
     display: flex;
     padding-left: 30px;
@@ -27,11 +22,11 @@ body{
     width: 80px;
     height: 50px;
 }
+.menu{
+    padding-top:20px
+}
 .menu-container{
     width: 70%;
-}
-.menu{
-    margin-top:10px;
 }
 .menu ul{
     display: flex;
@@ -45,7 +40,7 @@ body{
 }
 
 .first-background{
-    background-image:    url('assets/img/first-bg.png');
+    background-image:    url('first-bg.png');
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-blend-mode: overlay;
